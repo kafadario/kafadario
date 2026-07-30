@@ -1,16 +1,16 @@
-## Hi there 👋
+### hey there, I'm kafadario
 
-<!--
-**kafadario/kafadario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Kafadar* — a kindred spirit.
 
-Here are some ideas to get you started:
+Consider this a sandbox. I use it to build many kinds of applications,
+in many languages, across many stacks. It is proof that I can pick up an
+unfamiliar tool and ship something with it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Each project includes a "My approach" section on how I thought it
+through, along with the tech stack it used.
+
+**Languages & stacks explored here**
+<!-- add languages / frameworks here as you publish each project -->
+
+---
+thanks for stopping by
